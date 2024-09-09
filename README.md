@@ -1,2 +1,2 @@
-# Java_Job_Portal: https://myjavaproject.org/
+# Java_Job_Portal: myjavaproject.org
 This is a job portal website created by Spring Boot, Maven, MySQL, Thymeleaf and AWS. Recruiters can post jobs and job seekers applies for those jobs while they are logged in. There is a global search button on the homepage where viewers can only view jobs globally but need to sign up for posting or applying for jobs. One additional feature is that seekers can upload their resumes and recruiters can download them. This is a versatile freelance template project that can be passed through to make other projects, like university portal etc., where users can send and receive connections and data in a centralised system. 
